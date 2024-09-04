@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Malware Analysis Lab (AlgoExpert)</b>
+- <b> [Malware Analysis Lab] https://github.com/ELUNA2855/Malware-Analysis-Lab/tree/main
 
 
 <h2>Certifiacation</h2>
