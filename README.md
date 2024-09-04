@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Edgar! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b> Malware Analysis Lab (AlgoExpert)</b>
+
+
+<h2>Certifiacation</h2>
+
 
 <!--
-**ELUNA2855/ELUNA2855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
