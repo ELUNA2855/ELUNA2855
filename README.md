@@ -4,7 +4,7 @@
 
 - <b> [Malware Analysis Lab](https://github.com/ELUNA2855/Malware-Analysis-Lab/tree/main)
 - <b> [Minecraft server](https://github.com/ELUNA2855/Minecraft-Server)
-- <b> [Use Linux commands to manage file permissions]()
+- <b> [Use Linux commands to manage file permissions](https://github.com/ELUNA2855/Use-Linux-commands-to-manage-file-permissions)
 
 <h2>Certifiacation</h2>
 
